@@ -1,0 +1,10 @@
+Hello
+Hello, goodbye!
+Goodbye 
+
+bash: eeechoo: command not found
+3 Stream for communication channels
+
+- Standard Input
+- Standard Output
+- Standard Error
