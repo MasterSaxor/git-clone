@@ -1,0 +1,5 @@
+3 Stream for communication channels
+
+- Standard Input
+- Standard Output
+- Standard Error
