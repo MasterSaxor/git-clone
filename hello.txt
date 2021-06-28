@@ -1,5 +1,4 @@
 Hello
 Hello, goodbye!
-Goodbye 
+Goodbye
 
-bash: eeechoo: command not found
